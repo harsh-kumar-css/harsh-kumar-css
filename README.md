@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate web developer from India ^_^</h3>
-<p align="center"><img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="600"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="500"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kumar-css&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kumar-css" /> </p>
 
