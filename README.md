@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh-kumar-css?tab=repositories](https://github.com/harsh-kumar-css?tab=repositories)
 
-- 💬 Ask me about **web development and data structures and alogrithms**
+- 💬 Ask me about **web development and data structures and algorithms**
 
 - 📫 How to reach me **190010019@iitdh.ac.in**
 
